@@ -1,0 +1,19 @@
+{
+    "name": "Squirtle",
+    "description": 	"After birth, its back swells and hardens into a shell. It powerfully sprays foam from its mouth. The shell is soft when it is born.",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/7.png",
+    "attributes": [
+        {
+            "trait_type": "Type",
+            "value": "Water"
+        },
+        {
+            "trait_type": "Height",
+            "value": "0.5 m"
+        },
+        {
+            "trait_type": "Weight",
+            "value": "9.0 kg"
+        }
+    ]
+}
